@@ -1,7 +1,7 @@
 // Copyright (C) 2002-2012 Nikolaus Gebhardt
 // This file is part of the "Irrlicht Engine".
 // For conditions of distribution and use, see copyright notice in irrlicht.h
-
+// mastarb reviewed
 #include "IrrCompileConfig.h"
 #ifdef _IRR_COMPILE_WITH_3DS_LOADER_
 
@@ -1368,4 +1368,3 @@ void C3DSMeshFileLoader::readString(io::IReadFile* file, ChunkData& data, core::
 } // end namespace irr
 
 #endif // _IRR_COMPILE_WITH_3DS_LOADER_
-
